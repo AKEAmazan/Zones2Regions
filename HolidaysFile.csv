@@ -1,10 +1,9 @@
-Date,Nom,Type
-2024-01-01,Nouvel An,Férié fixe
-2024-04-27,Indépendance du Togo,Férié fixe
-2024-05-01,Fête du Travail,Férié fixe
-2024-12-25,Noël,Férié fixe
-2025-01-01,Nouvel An,Férié fixe
-2025-04-27,Indépendance du Togo,Férié fixe
-2025-05-01,Fête du Travail,Férié fixe
-2025-05-02,Férié exceptionnel,Férié exceptionnel
-2025-12-25,Noël,Férié fixe
+Date,Nom,Type,Commentaire
+2024-03-25,Lundi de Pâques,Férié mobile,Date variable selon calendrier lunaire
+2024-05-09,Ascension,Férié mobile,
+2024-05-20,Lundi de Pentecôte,Férié mobile,
+2025-04-14,Lundi de Pâques,Férié mobile,
+2025-05-29,Ascension,Férié mobile,
+2025-06-09,Lundi de Pentecôte,Férié mobile,
+2024-06-17,Fête de l'Unité,Férié exceptionnel,Décret gouvernemental
+2025-08-15,Journée spéciale,Férié exceptionnel,À confirmer
